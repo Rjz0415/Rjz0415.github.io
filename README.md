@@ -4,10 +4,10 @@
 
 作业1描述
 
-[作业1链接](https:www.baidu.com)
+[作业1链接](https://www.baidu.com)
 
 ##2.作业2
 
 描述
 
-[作业2链接](www.pku.edu.cn)
+[作业2链接](https://www.pku.edu.cn)
