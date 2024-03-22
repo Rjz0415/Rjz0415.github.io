@@ -14,6 +14,6 @@
 
 ##3.作业3
 
-对红楼梦中出现频率前50名的人物进行了统计
+对《红楼梦》中出现频率前50名的人物进行了统计
 
-[作业3链接](https://Rjz0415.github.io/2020population.html)
+[作业3链接](https://Rjz0415.github.io/honglou.html)
