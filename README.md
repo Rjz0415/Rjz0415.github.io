@@ -5,7 +5,7 @@
 在中国地图上呈现内地各省市
 医疗资源概况；
 
-[中国内地各省市医疗资源概况](https://Rjz0415.github.io/China-medical-resource.html)
+[中国内地各省市医疗资源概况](https://Rjz0415.github.io/map-China.html)
 
 
 ##2.作业2
