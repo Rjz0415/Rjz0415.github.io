@@ -2,9 +2,11 @@
 ## 2310120119  张家瑞
 ##1.作业1
 
-作业1描述
+在中国地图上呈现内地各省市
+医疗资源概况；
 
-[作业1链接](https://www.baidu.com)
+[中国内地各省市医疗资源概况](https://Rjz0415.github.io/China-medical-resource.html)
+
 
 ##2.作业2
 
@@ -16,4 +18,4 @@
 
 对《红楼梦》中出现频率前50名的人物进行了统计
 
-[作业3链接](https://Rjz0415.github.io/honglou.html)
+[红楼人物](https://Rjz0415.github.io/honglou.html)
