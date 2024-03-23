@@ -2,16 +2,18 @@
 ## 2310120119  张家瑞
 ##1.作业1
 
-在中国地图上呈现内地各省市医疗资源概况；
+在中国地图上呈现内地各省市医疗资源概况；利用地理坐标系呈现一带一路部分走向图（数据均来源于网络）
 
-[中国内地各省市医疗资源概况](https://Rjz0415.github.io/map-China.html)
+[内地各省市医疗资源概况](https://Rjz0415.github.io/map-China.html)
+
+[一带一路走向图](https://Rjz0415.github.io/geo-world.html)
 
 
 ##2.作业2
 
-描述
+利用组合图标呈现了北京（主要是海淀）2023的部分天气情况
 
-[作业2链接](https://www.pku.edu.cn)
+[作业2](https://Rjz0415.github.io/weather-Beijing.html)
 
 ##3.作业3
 
