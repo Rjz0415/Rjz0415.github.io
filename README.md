@@ -25,4 +25,10 @@
 
 对《红楼梦》中的部分人物进行共线分析
 
-[红楼共线](https://Rjz0415.github.io/honglou.html)
+[红楼共线](https://Rjz0415.github.io/hlgx.html)
+
+## 课堂练习
+
+来问问小度
+
+[小度一下](https://rjz0415.github.io/askxiaodu.html)
